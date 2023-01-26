@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TX31hRPMP4vq25t6laqyCUCek1q0wdKxc8GDHgA9IiQ=",
+  "Source": "WebApiMontyHall",
+  "BasePath": "_content/WebApiMontyHall",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
